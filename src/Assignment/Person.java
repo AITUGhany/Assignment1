@@ -17,3 +17,4 @@ public class Person {
         return "Hi, I am " + name + " " + surname + ", a " + age + "-year-old " + (gender ? "Male" : "Female") + ".";
     }
 }
+//1
